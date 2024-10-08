@@ -1,5 +1,20 @@
  {
   "products": [
+ 
+   
+       {
+      "id": 1,
+      "title": "I-Phone 15",
+      "price": 74999,
+      "imageUrl": "https://fdn.gsmarena.com/imgroot/reviews/23/iphone-15/lifestyle/-1024w2/gsmarena_032.jpg"
+    },
+       {
+      "id": 2,
+      "title": "Puma Shoe",
+      "price": 2499,
+      "imageUrl": "https://www.shutterstock.com/shutterstock/photos/1106372831/display_1500/stock-photo-nakhon-pathom-thailand-december-the-puma-suede-a-street-legend-established-1106372831.jpg"
+    },
+   
        {
       "id": 3,
       "title": "Samsung s23 ultra",
@@ -22,7 +37,7 @@
       "id": 6,
       "title": "Crocs Slipper",
       "price": 3999,
-      "imageUrl": "https://media.istockphoto.com/id/1194814887/photo/apple-airpods-wireless-bluetooth-headphones-and-charging-case.jpg?s=1024x1024&w=is&k=20&c=V-oPvEdOSUhZyxaJpgZPv77T0qwBFqc9mc5UPCU60b4="
+      "imageUrl": "https://thumbs.dreamstime.com/z/gray-crocs-sandals-lie-edge-pool-trendy-comfortable-beach-shoes-326406407.jpg?ct=jpeg"
     }
   ]
 }
