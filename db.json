@@ -1,0 +1,28 @@
+ {
+  "products": [
+       {
+      "id": 3,
+      "title": "Samsung s23 ultra",
+      "price": 74999,
+      "imageUrl": "https://fdn.gsmarena.com/imgroot/reviews/23/samsung-galaxy-s23-ultra/lifestyle/-1024w2/gsmarena_007.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Fastrack Sunglass",
+      "price": 999,
+      "imageUrl": "https://www.shutterstock.com/shutterstock/photos/2508994781/display_1500/stock-photo-stylish-sunglasses-in-air-on-yellow-background-2508994781.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Apple Airpod",
+      "price": 14999,
+      "imageUrl": "https://media.istockphoto.com/id/1194814887/photo/apple-airpods-wireless-bluetooth-headphones-and-charging-case.jpg?s=1024x1024&w=is&k=20&c=V-oPvEdOSUhZyxaJpgZPv77T0qwBFqc9mc5UPCU60b4="
+    },
+    {
+      "id": 6,
+      "title": "Crocs Slipper",
+      "price": 3999,
+      "imageUrl": "https://media.istockphoto.com/id/1194814887/photo/apple-airpods-wireless-bluetooth-headphones-and-charging-case.jpg?s=1024x1024&w=is&k=20&c=V-oPvEdOSUhZyxaJpgZPv77T0qwBFqc9mc5UPCU60b4="
+    }
+  ]
+}
